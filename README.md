@@ -69,7 +69,8 @@ Parts used for the case mod:
 | Acrylic glass panel | [eBay](https://www.ebay.de/itm/167171910591) |
 | Green spray paint | [eBay](https://www.ebay.de/itm/252335750703?var=551180485617) |
 | Black spray paint | [eBay](https://www.ebay.de/itm/252335750703?var=551180485609) |
-| Controller thumbsticks | [eBay](https://www.ebay.de/itm/186237759446) |
+| Controller thumbsticks | [eBay](https://www.ebay.de/itm/186237759446) 
+| LED Stripe | [eBay]([https://www.ebay.de/itm/186237759446](https://www.ebay.de/itm/293694271309?_skw=led+stripe&itmmeta=01KWPXRYZT2NWBBWDE4JQ21Y8Y&hash=item44618aef4d%3Ag%3AWh4AAeSwkxVp-~lp&itmprp=enc%3AAQALAAAAwGfYFPkwiKCW4ZNSs2u11xBY6yTwj6iZtMth8PaxrTYEcN7PdTcdFQ2mXa8SKV5n2KlYPhEMcMd7E9aYXuhH4hXwi1oQvF4EgdlAhrBzqOgRUi5eHKPmlAacZhbfXuxiSjIo0F%2BBf%2FF77lVnweKzbo1eRtcZQBMfu8lTRoURR%2B9UQ8yHVDT4Q8cyLs0JoPnlh88P8OD2mu9XrOAoWk5YTaQmorDukRY2%2BP4bCTgedFQx8dmLGKKF%2F4HMCN3uYEWJTQ%3D%3D%7Ctkp%3ABlBMUKbw493lZw&var=592503849599)) 
 
 ---
 

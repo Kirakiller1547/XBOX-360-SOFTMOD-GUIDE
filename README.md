@@ -14,7 +14,7 @@ You'll need a USB drive or another storage drive to set up BadAvatar and store g
 **Recommended hardware:**
 - USB drive: [Kingston DataTraveler Exodia 64GB USB 3.2](https://www.newegg.com/kingston-technology-corp-datatraveler-exodia-64gb-usb-3-2-gen-1-black-blue/p/0BD-00CA-00D98)
 - SSD: [Intenso Top Performance 128GB](https://geizhals.de/intenso-top-performance-ssd-128gb-3812430-a881749.html)
-- HDD: [Seagate Expansion Portable 1TB]([https://geizhals.de/intenso-top-performance-ssd-128gb-3812430-a881749.html](https://geizhals.de/seagate-expansion-portable-stkm-1tb-stkm1000400-a2558781.html))
+- HDD: [Seagate Expansion Portable 1TB](https://geizhals.de/seagate-expansion-portable-stkm-1tb-stkm1000400-a2558781.html)
 
 ### Steps
 1. Plug the USB drive or external SSD into a USB port on the Xbox 360.

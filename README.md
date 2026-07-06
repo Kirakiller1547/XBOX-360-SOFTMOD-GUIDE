@@ -1,4 +1,4 @@
-<img width="784" height="1168" alt="pnHKO" src="https://github.com/user-attachments/assets/c339dc80-3b2b-46f2-90ff-812a9eb9e819" />
+<img width="1760" height="576" alt="image (2)" src="https://github.com/user-attachments/assets/97303cea-e896-4fd4-85f2-304d2ba6f1fe" />
 
 
 # Xbox 360 Softmod Guide (BadAvatar / Aurora)

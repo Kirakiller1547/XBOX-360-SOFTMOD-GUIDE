@@ -1,3 +1,6 @@
+<img width="784" height="1168" alt="pnHKO" src="https://github.com/user-attachments/assets/c339dc80-3b2b-46f2-90ff-812a9eb9e819" />
+
+
 # Xbox 360 Softmod Guide (BadAvatar / Aurora)
 
 A guide for softmodding an Xbox 360, loading games digitally, applying custom themes/skins, and doing a case mod.

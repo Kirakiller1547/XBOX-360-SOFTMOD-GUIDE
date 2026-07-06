@@ -40,6 +40,11 @@ Since the original download links are no longer available, the files are include
 3. On the console, press **B** → go to **Skins** → select the Xbox Series skin.
 4. Under **Theme**, disable **Animation**.
 
+<img width="1440" height="720" alt="image (1)" src="https://github.com/user-attachments/assets/3eb5988b-4ce3-40e6-8987-7448d7717bca" />
+
+<img width="1440" height="720" alt="image" src="https://github.com/user-attachments/assets/3f83a01a-0d5f-4a8d-83f5-e1b725b72979" />
+
+
 ## 4. Game Updates via Xbox Unity
 
 1. Register and activate your account at [xboxunity.net](https://xboxunity.net/) (confirm via email).

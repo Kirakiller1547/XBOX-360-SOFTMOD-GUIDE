@@ -57,7 +57,7 @@ Parts used for the case mod:
 
 | Part | Link |
 |---|---|
-| 60mm LED Fan (green) | [eBay](https://www.ebay.de/itm/157915753200) |
+| 120mm LED Fan (green) | [eBay](https://www.ebay.de/itm/157915753200) |
 | Acrylic glass panel | [eBay](https://www.ebay.de/itm/167171910591) |
 | Green spray paint | [eBay](https://www.ebay.de/itm/252335750703?var=551180485617) |
 | Black spray paint | [eBay](https://www.ebay.de/itm/252335750703?var=551180485609) |
